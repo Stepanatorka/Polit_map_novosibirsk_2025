@@ -33,5 +33,6 @@ Polit_map_novosibirsk_2025/
 │   └── ...
 ├── map_pyqt.py
 ├── requirements.txt
+├── LICENSE
 ├── README.md
 └── .gitignore
